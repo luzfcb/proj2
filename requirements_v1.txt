@@ -126,7 +126,7 @@ sendgrid==6.1.0
 shippo==1.5.1
 simplegeneric==0.8.1
 six==1.11.0
-smmap2==2.0.5
+smmap2==3.0.1
 sqlparse==0.2.4
 stevedore==1.30.0
 stripe==2.55
