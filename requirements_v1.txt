@@ -100,7 +100,7 @@ phonenumbers==8.12.17
 pickleshare==0.7.4
 pillow==8.1.1
 pip-tools==4.5.1
-pre-commit==1.11.2
+pre-commit==4.6.0
 pretty-cron==1.2.0
 prompt-toolkit==1.0.15
 psycopg2-binary==2.7.7
