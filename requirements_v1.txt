@@ -106,7 +106,7 @@ prompt-toolkit==1.0.15
 psycopg2-binary==2.7.7
 ptyprocess==0.5.2
 pycodestyle==2.4.0
-pycountry==20.7.3
+pycountry==26.2.16
 pyflakes==2.0.0
 pygments==2.7.4
 pyjwt==1.7.1
