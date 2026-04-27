@@ -63,7 +63,7 @@ django-storages==1.7.1
 django-templated-email==2.3.0
 django-timezone-field==4.1.1
 django-webpack-loader==0.6.0
-django-widget-tweaks==1.4.1
+django-widget-tweaks==1.5.1
 django==2.2.18
 djangorestframework==3.11.2
 drf-rw-serializers==1.0.3
