@@ -66,7 +66,7 @@ django-webpack-loader==0.6.0
 django-widget-tweaks==1.4.1
 django==2.2.18
 djangorestframework==3.11.2
-drf-rw-serializers==1.0.3
+drf-rw-serializers==1.4.0
 et-xmlfile==1.0.1
 facebook-business==9.0.3
 flake8-per-file-ignores==0.7
