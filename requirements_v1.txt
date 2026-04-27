@@ -135,7 +135,7 @@ tapioca-wrapper==1.4.2
 taxjar==1.9.1
 tblib==1.3.2
 testfixtures==4.13.5
-toml==0.10.0
+toml==0.10.2
 traitlets==4.3.2
 twilio==6.51.1
 typing-extensions==3.7.4.3
