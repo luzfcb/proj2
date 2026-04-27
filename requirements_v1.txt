@@ -116,7 +116,7 @@ python-dateutil==2.6.0
 python-decouple==3.1
 python-http-client==3.2.1
 python-monkey-business==1.0.0
-pytz==2018.9
+pytz==2026.1.post1
 pyyaml==5.4
 raven==6.10.0
 redis==2.10.6
