@@ -70,7 +70,7 @@ drf-rw-serializers==1.0.3
 et-xmlfile==1.0.1
 facebook-business==9.0.3
 flake8-per-file-ignores==0.7
-flake8==3.6.0
+flake8==7.3.0
 freezegun-vinta==0.3.7.1
 future==0.17.1
 gitdb2==2.0.5
