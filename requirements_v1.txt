@@ -128,7 +128,7 @@ simplegeneric==0.8.1
 six==1.11.0
 smmap2==2.0.5
 sqlparse==0.2.4
-stevedore==1.30.0
+stevedore==5.7.0
 stripe==2.55
 tablib==0.12.1
 tapioca-wrapper==1.4.2
