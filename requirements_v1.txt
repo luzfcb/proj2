@@ -117,7 +117,7 @@ python-decouple==3.1
 python-http-client==3.2.1
 python-monkey-business==1.0.0
 pytz==2018.9
-pyyaml==5.4
+pyyaml==6.0.3
 raven==6.10.0
 redis==2.10.6
 requests==2.20.1
