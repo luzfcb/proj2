@@ -27,7 +27,7 @@ diff-match-patch==20181111
 dj-database-url==0.5.0
 django-admin-rangefilter==0.3.0
 django-admin-sortable==2.1.2
-django-admin-views==0.8.0
+django-admin-views==1.0.3
 django-anymail==1.4
 django-autocomplete-light==3.8.2
 django-braces==1.13.0
