@@ -14,7 +14,7 @@ boto==2.45.0
 bs4==0.0.1
 cached-property==1.5.1
 celery-persistent-revokes==1.0.1
-celery==4.4.7
+celery==5.6.3
 certifi==2017.11.5
 cfgv==1.1.0
 chardet==3.0.4
