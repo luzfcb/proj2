@@ -103,7 +103,7 @@ pip-tools==4.5.1
 pre-commit==1.11.2
 pretty-cron==1.2.0
 prompt-toolkit==1.0.15
-psycopg2-binary==2.7.7
+psycopg2-binary==2.9.12
 ptyprocess==0.5.2
 pycodestyle==2.4.0
 pycountry==20.7.3
