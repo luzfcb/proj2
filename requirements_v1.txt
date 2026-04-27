@@ -3,7 +3,7 @@ aiohttp==3.7.4
 amqp==2.6.1
 arrow==0.14.7
 aspy.yaml==1.1.1
-async-timeout==3.0.1
+async-timeout==5.0.1
 attrs==20.2.0
 bandit==1.4.0
 barnum==0.5.1
