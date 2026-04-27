@@ -54,7 +54,7 @@ django-model-utils==3.0.0
 django-naomi==0.8
 django-nested-admin==3.2.4
 django-object-actions==1.0.0
-django-recaptcha==2.0.6
+django-recaptcha==4.1.0
 django-redis==4.5.0
 django-render-block==0.5
 django-s3direct==1.0.4
