@@ -123,7 +123,7 @@ redis==2.10.6
 requests==2.20.1
 responses==0.10.15
 sendgrid==6.1.0
-shippo==1.5.1
+shippo==3.9.0
 simplegeneric==0.8.1
 six==1.11.0
 smmap2==2.0.5
