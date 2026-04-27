@@ -76,7 +76,7 @@ future==0.17.1
 gitdb2==2.0.5
 gitpython==2.1.11
 hashids==1.2.0
-html5lib==1.0.1
+html5lib==1.1
 identify==1.1.8
 idna==2.6
 ipython-genutils==0.2.0
