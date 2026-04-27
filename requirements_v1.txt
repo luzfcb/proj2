@@ -127,7 +127,7 @@ shippo==1.5.1
 simplegeneric==0.8.1
 six==1.11.0
 smmap2==2.0.5
-sqlparse==0.2.4
+sqlparse==0.5.5
 stevedore==1.30.0
 stripe==2.55
 tablib==0.12.1
