@@ -104,7 +104,7 @@ pre-commit==1.11.2
 pretty-cron==1.2.0
 prompt-toolkit==1.0.15
 psycopg2-binary==2.7.7
-ptyprocess==0.5.2
+ptyprocess==0.7.0
 pycodestyle==2.4.0
 pycountry==20.7.3
 pyflakes==2.0.0
