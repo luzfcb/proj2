@@ -28,7 +28,7 @@ dj-database-url==0.5.0
 django-admin-rangefilter==0.3.0
 django-admin-sortable==2.1.2
 django-admin-views==0.8.0
-django-anymail==1.4
+django-anymail==15.0
 django-autocomplete-light==3.8.2
 django-braces==1.13.0
 django-cache-memoize==0.1.7
