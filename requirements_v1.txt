@@ -8,7 +8,7 @@ attrs==20.2.0
 bandit==1.4.0
 barnum==0.5.1
 beautifulsoup4==4.6.0
-billiard==3.6.3.0
+billiard==4.2.4
 boltons==16.5.1
 boto==2.45.0
 bs4==0.0.1
