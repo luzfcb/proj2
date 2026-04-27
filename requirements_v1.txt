@@ -121,7 +121,7 @@ pyyaml==5.4
 raven==6.10.0
 redis==2.10.6
 requests==2.20.1
-responses==0.10.15
+responses==0.26.0
 sendgrid==6.1.0
 shippo==1.5.1
 simplegeneric==0.8.1
