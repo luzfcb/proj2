@@ -108,7 +108,7 @@ ptyprocess==0.5.2
 pycodestyle==2.4.0
 pycountry==20.7.3
 pyflakes==2.0.0
-pygments==2.7.4
+pygments==2.20.0
 pyjwt==1.7.1
 pynliner3==0.6
 python-crontab==2.5.1
