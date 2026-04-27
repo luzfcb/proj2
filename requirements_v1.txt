@@ -11,7 +11,7 @@ beautifulsoup4==4.6.0
 billiard==3.6.3.0
 boltons==16.5.1
 boto==2.45.0
-bs4==0.0.1
+bs4==0.0.2
 cached-property==1.5.1
 celery-persistent-revokes==1.0.1
 celery==4.4.7
