@@ -134,7 +134,7 @@ tablib==0.12.1
 tapioca-wrapper==1.4.2
 taxjar==1.9.1
 tblib==1.3.2
-testfixtures==4.13.5
+testfixtures==12.3.0
 toml==0.10.0
 traitlets==4.3.2
 twilio==6.51.1
