@@ -29,7 +29,7 @@ django-admin-rangefilter==0.3.0
 django-admin-sortable==2.1.2
 django-admin-views==0.8.0
 django-anymail==1.4
-django-autocomplete-light==3.8.2
+django-autocomplete-light==5.0.0
 django-braces==1.13.0
 django-cache-memoize==0.1.7
 django-celery-beat==2.2.0
