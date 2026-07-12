@@ -47,7 +47,7 @@ django-inlinecss==0.1.2
 django-js-reverse==0.9.1
 django-jsonfield-compat==0.4.4
 django-jsonfield==1.0.1
-django-lifecycle==0.3.0
+django-lifecycle==1.3.0
 django-localflavor==2.1
 django-log-request-id==1.3.2
 django-model-utils==3.0.0
