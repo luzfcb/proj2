@@ -129,7 +129,7 @@ six==1.11.0
 smmap2==2.0.5
 sqlparse==0.2.4
 stevedore==1.30.0
-stripe==2.55
+stripe==15.3.0
 tablib==0.12.1
 tapioca-wrapper==1.4.2
 taxjar==1.9.1
